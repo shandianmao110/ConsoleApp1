@@ -14,10 +14,5 @@ class Program
         WriteLine($"name is type {nameType}");
         WriteLine($"age is type {ageType}");
         WriteLine($"isRabbit is type {isRabbitType}");
-
-
-
-
-
     }
 }
